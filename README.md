@@ -4,7 +4,7 @@ A small operations project that checks simulated trades before settlement, flags
 
 > **Note:** the data used in this project is synthetic. No real trades, firms, clients or people appear in it. This is an independent learning project and is not affiliated with any bank.
 
-![Dashboard preview](dashboard/dashboard_preview.jpg)
+![Dashboard preview](trade-validation-exception-tracker/dashboard/dashboard_preview.jpg)
 
 ## The idea
 
